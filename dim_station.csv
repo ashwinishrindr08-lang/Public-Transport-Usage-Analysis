@@ -1,0 +1,137 @@
+StationID,StationName,RouteID,Zone,Latitude,Longitude
+S001,Western Line Stop 1,R01,West,18.92687,72.82444
+S002,Western Line Stop 2,R01,West,18.97314,72.8213
+S003,Western Line Stop 3,R01,West,19.01551,72.81873
+S004,Western Line Stop 4,R01,West,19.05222,72.81855
+S005,Western Line Stop 5,R01,West,19.09386,72.81636
+S006,Western Line Stop 6,R01,West,19.13285,72.81554
+S007,Western Line Stop 7,R01,West,19.17175,72.81567
+S008,Western Line Stop 8,R01,West,19.21496,72.81192
+S009,Western Line Stop 9,R01,West,19.25325,72.81254
+S010,Western Line Stop 10,R01,West,19.29412,72.8072
+S011,Western Line Stop 11,R01,West,19.33544,72.81118
+S012,Western Line Stop 12,R01,West,19.37139,72.80637
+S013,Western Line Stop 13,R01,West,19.41003,72.80268
+S014,Western Line Stop 14,R01,West,19.46073,72.80147
+S015,Central Line Stop 1,R02,Central,18.94051,72.83332
+S016,Central Line Stop 2,R02,Central,18.9624,72.85694
+S017,Central Line Stop 3,R02,Central,18.98226,72.87951
+S018,Central Line Stop 4,R02,Central,19.00752,72.90078
+S019,Central Line Stop 5,R02,Central,19.02681,72.92169
+S020,Central Line Stop 6,R02,Central,19.05271,72.9501
+S021,Central Line Stop 7,R02,Central,19.07454,72.97405
+S022,Central Line Stop 8,R02,Central,19.09642,72.99502
+S023,Central Line Stop 9,R02,Central,19.11937,73.01626
+S024,Central Line Stop 10,R02,Central,19.13918,73.04587
+S025,Central Line Stop 11,R02,Central,19.16172,73.05993
+S026,Central Line Stop 12,R02,Central,19.18669,73.08537
+S027,Central Line Stop 13,R02,Central,19.20348,73.11068
+S028,Central Line Stop 14,R02,Central,19.22972,73.12667
+S029,Harbour Line Stop 1,R03,Harbour,18.94357,72.83688
+S030,Harbour Line Stop 2,R03,Harbour,18.94336,72.85531
+S031,Harbour Line Stop 3,R03,Harbour,18.95628,72.86492
+S032,Harbour Line Stop 4,R03,Harbour,18.96623,72.88041
+S033,Harbour Line Stop 5,R03,Harbour,18.96853,72.89293
+S034,Harbour Line Stop 6,R03,Harbour,18.97751,72.91131
+S035,Harbour Line Stop 7,R03,Harbour,18.98297,72.92249
+S036,Harbour Line Stop 8,R03,Harbour,18.99047,72.93963
+S037,Harbour Line Stop 9,R03,Harbour,18.99323,72.9504
+S038,Harbour Line Stop 10,R03,Harbour,19.00608,72.96199
+S039,Harbour Line Stop 11,R03,Harbour,19.01215,72.98333
+S040,Harbour Line Stop 12,R03,Harbour,19.02262,72.99827
+S041,Harbour Line Stop 13,R03,Harbour,19.02782,73.01353
+S042,Harbour Line Stop 14,R03,Harbour,19.03334,73.03191
+S043,Metro Line 1 Stop 1,R04,West-Central,19.11221,72.87269
+S044,Metro Line 1 Stop 2,R04,West-Central,19.10989,72.87695
+S045,Metro Line 1 Stop 3,R04,West-Central,19.1149,72.88441
+S046,Metro Line 1 Stop 4,R04,West-Central,19.11715,72.88651
+S047,Metro Line 1 Stop 5,R04,West-Central,19.10653,72.89218
+S048,Metro Line 1 Stop 6,R04,West-Central,19.11191,72.90303
+S049,Metro Line 1 Stop 7,R04,West-Central,19.10951,72.90453
+S050,Metro Line 1 Stop 8,R04,West-Central,19.11077,72.91059
+S051,Metro Line 1 Stop 9,R04,West-Central,19.11121,72.92921
+S052,Metro Line 1 Stop 10,R04,West-Central,19.1081,72.92875
+S053,Metro Line 2A Stop 1,R05,West,19.22752,72.85157
+S054,Metro Line 2A Stop 2,R05,West,19.22064,72.85183
+S055,Metro Line 2A Stop 3,R05,West,19.21155,72.85839
+S056,Metro Line 2A Stop 4,R05,West,19.21015,72.85247
+S057,Metro Line 2A Stop 5,R05,West,19.20185,72.84893
+S058,Metro Line 2A Stop 6,R05,West,19.19912,72.84746
+S059,Metro Line 2A Stop 7,R05,West,19.19126,72.84508
+S060,Metro Line 2A Stop 8,R05,West,19.18208,72.83956
+S061,Metro Line 2A Stop 9,R05,West,19.17062,72.8411
+S062,Metro Line 2A Stop 10,R05,West,19.17017,72.83614
+S063,Metro Line 7 Stop 1,R06,West,19.1999,72.87016
+S064,Metro Line 7 Stop 2,R06,West,19.18464,72.86481
+S065,Metro Line 7 Stop 3,R06,West,19.18344,72.86627
+S066,Metro Line 7 Stop 4,R06,West,19.16987,72.86314
+S067,Metro Line 7 Stop 5,R06,West,19.16751,72.86255
+S068,Metro Line 7 Stop 6,R06,West,19.15527,72.85637
+S069,Metro Line 7 Stop 7,R06,West,19.14478,72.85674
+S070,Metro Line 7 Stop 8,R06,West,19.13836,72.85478
+S071,Metro Line 7 Stop 9,R06,West,19.12928,72.8529
+S072,Metro Line 7 Stop 10,R06,West,19.12028,72.85035
+S073,Monorail Stop 1,R07,South,19.04261,72.89759
+S074,Monorail Stop 2,R07,South,19.02743,72.89463
+S075,Monorail Stop 3,R07,South,19.02648,72.87486
+S076,Monorail Stop 4,R07,South,19.01643,72.87232
+S077,Monorail Stop 5,R07,South,19.01059,72.85846
+S078,Monorail Stop 6,R07,South,19.00849,72.84686
+S079,Monorail Stop 7,R07,South,18.99475,72.84063
+S080,Monorail Stop 8,R07,South,18.99117,72.83149
+S081,Colaba-Bandra Stop 1,R08,South-West,18.92473,72.8336
+S082,Colaba-Bandra Stop 2,R08,South-West,18.94318,72.83322
+S083,Colaba-Bandra Stop 3,R08,South-West,18.96162,72.83532
+S084,Colaba-Bandra Stop 4,R08,South-West,18.98179,72.83832
+S085,Colaba-Bandra Stop 5,R08,South-West,19.00252,72.83713
+S086,Colaba-Bandra Stop 6,R08,South-West,19.01814,72.8382
+S087,Colaba-Bandra Stop 7,R08,South-West,19.0402,72.83958
+S088,Colaba-Bandra Stop 8,R08,South-West,19.06662,72.83843
+S089,Andheri-Powai Stop 1,R09,West-Central,19.12127,72.84821
+S090,Andheri-Powai Stop 2,R09,West-Central,19.12001,72.86058
+S091,Andheri-Powai Stop 3,R09,West-Central,19.11829,72.86312
+S092,Andheri-Powai Stop 4,R09,West-Central,19.11675,72.86966
+S093,Andheri-Powai Stop 5,R09,West-Central,19.1196,72.88182
+S094,Andheri-Powai Stop 6,R09,West-Central,19.11953,72.89163
+S095,Andheri-Powai Stop 7,R09,West-Central,19.118,72.89543
+S096,Andheri-Powai Stop 8,R09,West-Central,19.12611,72.90618
+S097,Dadar-Thane Stop 1,R10,Central,19.01584,72.84092
+S098,Dadar-Thane Stop 2,R10,Central,19.04374,72.8651
+S099,Dadar-Thane Stop 3,R10,Central,19.07405,72.88195
+S100,Dadar-Thane Stop 4,R10,Central,19.10352,72.90305
+S101,Dadar-Thane Stop 5,R10,Central,19.12975,72.91692
+S102,Dadar-Thane Stop 6,R10,Central,19.16153,72.94123
+S103,Dadar-Thane Stop 7,R10,Central,19.19043,72.95629
+S104,Dadar-Thane Stop 8,R10,Central,19.22003,72.97577
+S105,Borivali-Kurla Stop 1,R11,West-Central,19.22744,72.85417
+S106,Borivali-Kurla Stop 2,R11,West-Central,19.21047,72.86204
+S107,Borivali-Kurla Stop 3,R11,West-Central,19.18596,72.86703
+S108,Borivali-Kurla Stop 4,R11,West-Central,19.17015,72.8613
+S109,Borivali-Kurla Stop 5,R11,West-Central,19.13707,72.86772
+S110,Borivali-Kurla Stop 6,R11,West-Central,19.1143,72.86948
+S111,Borivali-Kurla Stop 7,R11,West-Central,19.09353,72.87221
+S112,Borivali-Kurla Stop 8,R11,West-Central,19.07301,72.87916
+S113,Navi Mumbai Express Stop 1,R12,Harbour,19.03444,73.03122
+S114,Navi Mumbai Express Stop 2,R12,Harbour,19.03867,73.00577
+S115,Navi Mumbai Express Stop 3,R12,Harbour,19.04708,72.98477
+S116,Navi Mumbai Express Stop 4,R12,Harbour,19.03898,72.95825
+S117,Navi Mumbai Express Stop 5,R12,Harbour,19.04321,72.93849
+S118,Navi Mumbai Express Stop 6,R12,Harbour,19.05192,72.91422
+S119,Navi Mumbai Express Stop 7,R12,Harbour,19.06218,72.89446
+S120,Navi Mumbai Express Stop 8,R12,Harbour,19.06218,72.86721
+S121,Airport Shuttle Stop 1,R13,West,19.0866,72.86571
+S122,Airport Shuttle Stop 2,R13,West,19.09446,72.85737
+S123,Airport Shuttle Stop 3,R13,West,19.09774,72.86033
+S124,Airport Shuttle Stop 4,R13,West,19.10198,72.85519
+S125,Airport Shuttle Stop 5,R13,West,19.10535,72.85444
+S126,Airport Shuttle Stop 6,R13,West,19.11159,72.85413
+S127,Airport Shuttle Stop 7,R13,West,19.1189,72.84877
+S128,Airport Shuttle Stop 8,R13,West,19.11863,72.84831
+S129,Ghatkopar-Mulund Stop 1,R14,Central,19.08783,72.9067
+S130,Ghatkopar-Mulund Stop 2,R14,Central,19.10037,72.9178
+S131,Ghatkopar-Mulund Stop 3,R14,Central,19.11388,72.92705
+S132,Ghatkopar-Mulund Stop 4,R14,Central,19.1194,72.92861
+S133,Ghatkopar-Mulund Stop 5,R14,Central,19.13403,72.93513
+S134,Ghatkopar-Mulund Stop 6,R14,Central,19.14405,72.93783
+S135,Ghatkopar-Mulund Stop 7,R14,Central,19.15828,72.94684
+S136,Ghatkopar-Mulund Stop 8,R14,Central,19.17026,72.95362

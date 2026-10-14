@@ -1,0 +1,15 @@
+RouteID,RouteName,Mode,Zone,VehiclesPerHour,VehicleCapacity,HourlyCapacity,BaseFare,RouteLengthKm
+R01,Western Line,Suburban Train,West,18,1800,32400,15,60
+R02,Central Line,Suburban Train,Central,16,1800,28800,15,54
+R03,Harbour Line,Suburban Train,Harbour,10,1800,18000,12,48
+R04,Metro Line 1,Metro,West-Central,15,1500,22500,25,11
+R05,Metro Line 2A,Metro,West,12,1500,18000,28,18
+R06,Metro Line 7,Metro,West,12,1500,18000,28,16
+R07,Monorail,Monorail,South,8,560,4480,20,20
+R08,Bus 1 Colaba-Bandra,Bus,South-West,24,90,2160,18,20
+R09,Bus 2 Andheri-Powai,Bus,West-Central,22,90,1980,16,14
+R10,Bus 3 Dadar-Thane,Bus,Central,22,90,1980,20,28
+R11,Bus 4 Borivali-Kurla,Bus,West-Central,20,90,1800,22,26
+R12,Bus 5 Navi Mumbai Express,Bus,Harbour,16,90,1440,35,32
+R13,Bus 6 Airport Shuttle,Bus,West,12,60,720,40,10
+R14,Bus 7 Ghatkopar-Mulund,Bus,Central,18,90,1620,14,12
